@@ -11,7 +11,8 @@
 
 
 ### 💞️ I’m looking to collaborate on ...
-- I just love learning, teaching, and creating. Any projects that spark my interest and seem to be a challenge that would expand my abilities and knowledge.
+- I just love learning, teaching, and creating - especially all at once.
+- Any projects that spark my interest and seem to be a challenge that would expand my abilities and knowledge, or could help someone else achieve the same.
 
 ## 📫 How to reach me ...
 ### **Please feel free reach out about any opportunities!**

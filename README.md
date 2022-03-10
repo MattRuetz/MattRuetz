@@ -15,7 +15,7 @@
 - Any projects that spark my interest and seem to be a challenge that would expand my abilities and knowledge, or could help someone else achieve the same.
 
 ## 📫 How to reach me ...
-### **Please feel free reach out about any opportunities!**
+### **Please feel free reach out about any opportunities or ideas!**
 Website: www.mattruetz.com
 
 Email: matt.b.ruetz@gmail.com

@@ -1,7 +1,7 @@
 # Hey! I’m Matt Ruetz
 ### 👀 I’m interested in ...
 - I'm most fascinated by complex phenomena resulting from low-level interractions. Robust behaviour and functionality derived from simple rules. The feeling of awe from creating something that has a personality and existence unto itself. That's why I love to code.
-- I have experience in web development using HTML/CSS/JS, and recently with higher-level frameworks such as Node.JS, Typescript, React and lots more. I also have some backend experience using PostgreSQL, MySQL, MongoDB, and Firestore.
+- Web development using HTML/CSS/JS, and with higher-level frameworks such as Node.JS, Typescript, React and lots more. I also have some backend experience using PostgreSQL, MySQL, MongoDB, and Firestore.
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...

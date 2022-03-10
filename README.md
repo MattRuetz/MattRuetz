@@ -10,7 +10,7 @@
 - I embrace lifelong learning, and continue to experiment with new technologies out of passion and curiosity.
 
 
-### 💞️ I’m looking to collaborate on ...
+### 💞️ Let's Collab!
 - I just love learning, teaching, and creating - especially all at once.
 - Any projects that spark my interest and seem to be a challenge that would expand my abilities and knowledge, or could help someone else achieve the same.
 

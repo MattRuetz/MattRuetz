@@ -1,4 +1,4 @@
-# Hey! I’m Matt Ruetz
+# Hey! I’m Matt
 ### 👀 I’m interested in ...
 - I'm most interested in complex phenomena resulting from low-level interractions. The feeling of awe from creating something that has a personality and existence unto itself. That's why I love to code.
 - Fullstack web development using HTML/CSS/JS, and with higher-level frameworks such as Node.JS, Express, Typescript, React and lots more. I also have some backend experience using relational and non-relational databases such as PostgreSQL, MySQL, MongoDB, and Firestore.

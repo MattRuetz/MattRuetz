@@ -1,6 +1,6 @@
 ## I’m Matt
 ### 👀 I’m interested in ...
-- Fullstack web development using HTML/CSS/JS, and with higher-level frameworks such as Node.JS, Express, Typescript, React and lots more. I also have some backend experience using relational and non-relational databases such as PostgreSQL, MySQL, MongoDB, and Firestore.
+- Fullstack web development (HTML/CSS/JS) with Node.JS, Express, Typescript, React and lots more. I also have some backend experience using relational and non-relational databases such as PostgreSQL, MySQL, MongoDB, and Firestore.
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...

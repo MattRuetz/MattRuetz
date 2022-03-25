@@ -9,8 +9,8 @@
 - I embrace lifelong learning, and continue to experiment with new technologies whenever I can.
 
 ### 💞️ Let's Collab!
-- I just love learning, teaching, and creating - especially all at once.
-- Any projects that spark my interest and seem to be a challenge that would expand my abilities and knowledge, or could help someone else do the same.
+- I enjoy learning, teaching, and creating - especially all at once.
+- Any projects that spark my interest, or could help me or someone else learn and improve.
 
 ## 📫 How to reach me ...
 ### **Please feel free reach out about any opportunities or ideas!**

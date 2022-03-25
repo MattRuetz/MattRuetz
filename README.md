@@ -4,9 +4,9 @@
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...
-- Recently I've been exploring the many different modalities of web development. I think the modern landscape of the Web is one of the fastest-evolving and most exciting areas to work in.
-- I have been learning React by creating a bunch of applications, and trying out a variety of NPM packages to add functionality and more advanced features. There's always more to do, and I enjoy every minute.
-- I embrace lifelong learning, and continue to experiment with new technologies out of passion and curiosity.
+- Different modalities of web development. I think the modern landscape of the Web is one of the fastest-evolving and most exciting areas to work in.
+- I have been learning React and the MERN stack by creating a bunch of applications and trying out a variety of NPM packages to add functionality.
+- I embrace lifelong learning, and continue to experiment with new technologies whenever I can.
 
 ### 💞️ Let's Collab!
 - I just love learning, teaching, and creating - especially all at once.

@@ -4,7 +4,7 @@
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...
-- Different modalities of web development. I think the modern landscape of the Web is one of the fastest-evolving and most exciting areas to work in.
+- Different technologies and full stacks for web development. I think the modern landscape of the Web is one of the fastest-evolving and most exciting areas to work in.
 - I have been learning React and the MERN stack by creating a bunch of applications and trying out a variety of NPM packages to add functionality.
 - I embrace lifelong learning, and continue to experiment with new technologies whenever I can.
 

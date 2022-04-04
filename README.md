@@ -10,7 +10,7 @@
 
 ### 💞️ Let's Collab!
 - I enjoy learning, teaching, and creating - especially all at once.
-- Any projects that spark my interest, or could help me or someone else learn and improve.
+- Any projects that sparks my interest, or could help me or someone else learn and improve.
 
 ## 📫 How to reach me ...
 ### **Please feel free reach out about any opportunities or ideas!**

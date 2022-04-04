@@ -13,7 +13,7 @@
 - Any projects that sparks my interest, or could help me or someone else learn and improve.
 
 ## 📫 How to reach me ...
-### **Lets make something amazing - **
+### Let's make something amazing:
 Website: www.mattruetz.com
 
 Email: matt.b.ruetz@gmail.com

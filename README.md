@@ -1,6 +1,6 @@
 ## I’m Matt
 ### 👀 I’m interested in ...
-- Fullstack web development with Node.JS, React, Redux, Express, Typescript,  and lots more. I also have some backend experience using relational and non-relational databases such as PostgreSQL, MySQL, MongoDB, and Firestore.
+- Fullstack web development with React, Redux, Express, Typescript, Firebase, MongoDB, PostgreSQL, MySQL and lots more.
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...
@@ -8,7 +8,7 @@
 - I have been learning React and the MERN stack by creating a bunch of applications and trying out a variety of NPM packages to add functionality.
 - I embrace lifelong learning, and continue to experiment with new technologies whenever I can.
 
-### 💞️ Let's Collab!
+### 💞️ Let's Collaborate
 - I enjoy learning, teaching, and creating - especially all at once.
 - Any projects that sparks my interest, or could help me or someone else learn and improve.
 

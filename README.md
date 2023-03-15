@@ -1,6 +1,6 @@
 ## I’m Matt
 ### 👀 I’m interested in ...
-- Fullstack web development with React, Redux, Express, Typescript, Firebase, MongoDB, PostgreSQL, MySQL and lots more.
+- Fullstack web development. Frequently use React, Redux, Express, Typescript, Firebase, MongoDB, PostgreSQL, MySQL and lots more.
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...

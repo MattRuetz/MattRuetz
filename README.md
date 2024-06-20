@@ -1,11 +1,12 @@
 ## I’m Matt
 ### 👀 I’m interested in ...
 - Fullstack web development. Frequently use React, Redux, Express, Typescript, Firebase, MongoDB, PostgreSQL, MySQL and lots more.
+- WordPress development, including themes and plugins.
 - Learning and improving every day.
 
 ### 🌱 I’m currently learning ...
-- Different technologies and full stacks for web development. I think the modern landscape of the Web is one of the fastest-evolving and most exciting areas to work in.
-- I have been learning React and the MERN stack by creating a bunch of applications and trying out a variety of NPM packages to add functionality.
+- Full Stack is an ever-changing landscape so I learn more every day.
+- WordPress is my comfort zone, but I'm always eager to step into new technologies. Learning MERN right now.
 - I embrace lifelong learning, and continue to experiment with new technologies whenever I can.
 
 ### 💞️ Let's Collaborate

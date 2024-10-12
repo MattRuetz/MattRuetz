@@ -3,7 +3,7 @@
 - React (recently NextJS), PHP, app development
 
 ### 🌱 I’m currently learning ...
-- Flutter, docker, linux
+- Ruby on Rails, Flutter, Docker, Linux
 
 “Every ~~block of stone~~ blank screen has a ~~statue~~ program inside it and it is the task of the ~~sculptor~~ developer to discover it.”
 

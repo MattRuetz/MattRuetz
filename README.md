@@ -1,9 +1,9 @@
 ## I’m Matt
 ### 👀 I’m interested in ...
-- React (recently NextJS), PHP, app development
+- React (recently NextJS), Svelte, PHP, app development
 
 ### 🌱 I’m currently learning ...
-- Ruby on Rails, Flutter, Docker, Linux CLI and Neovim
+- Svelte / SvelteKit, Flutter, Docker, Linux CLI and Neovim
 
 “Every ~~block of stone~~ blank screen has a ~~statue~~ program inside it and it is the task of the ~~sculptor~~ developer to discover it.”
 

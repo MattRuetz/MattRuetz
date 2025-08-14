@@ -4,9 +4,7 @@
 
 ### 🌱 I’m currently learning ...
 - Svelte / SvelteKit, Flutter, React Native
-
-“Every ~~block of stone~~ blank screen has a ~~statue~~ program inside it and it is the task of the ~~sculptor~~ developer to discover it.”
-
+  
 ## 📫 How to reach me ...
 ### Let's make something:
 Website: www.mattruetz.com
